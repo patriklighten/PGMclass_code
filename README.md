@@ -1,4 +1,1 @@
-# PGMclass_code
-*******
-
-test github 
+These are my (Juncheng Pan)assignment codes for the coursera PGM course
