@@ -1,1 +1,1 @@
-These are my (Juncheng Pan)assignment codes for the coursera PGM course
+I just upload my assignment codes for the Cousera PGM course that I took rencently
